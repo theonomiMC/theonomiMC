@@ -1,4 +1,8 @@
-<!-- [![Natalia's GitHub Banner](./assets/1.webp)](https://braydoncoyer.dev) -->
+<div align="center">
+  <img src="1.webp" width="100%" height="300" />
+</div>
+
+<hr />
 
 ### Hi, I am Natalia 👋
 [![LinkedIn Badge](https://img.shields.io/badge/Natalia_Bakakuri-informational?style=for-the-badge&logo=linkedin&color=555555)](https://www.linkedin.com/in/nataliabakakuri/)
