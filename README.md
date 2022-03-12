@@ -8,7 +8,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/Natalia_Bakakuri-informational?style=for-the-badge&logo=linkedin&color=555555)](https://www.linkedin.com/in/nataliabakakuri/)
 <br />
 
-[![Visits Badge](https://badges.pufler.dev/visits/theonomiMC/fdn?style=for-the-badge)](https://badges.pufler.dev)
+<!-- [![Visits Badge](https://badges.pufler.dev/visits/theonomiMC/theonomiMC?style=for-the-badge)](https://badges.pufler.dev) -->
 [![Repos Badge](https://badges.pufler.dev/repos/theonomiMC?style=for-the-badge)](https://github.com/theonomiMC?tab=repositories)
 [![Gists Badge](https://badges.pufler.dev/gists/theonomiMC?style=for-the-badge)](https://gist.github.com/theonomiMC)
 
