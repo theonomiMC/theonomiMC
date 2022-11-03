@@ -7,11 +7,9 @@
 ### Hi, I am Natalia 👋
 [![LinkedIn Badge](https://img.shields.io/badge/Natalia_Bakakuri-informational?style=for-the-badge&logo=linkedin&color=555555)](https://www.linkedin.com/in/nataliabakakuri/)
 <br />
-
-<!-- [![Visits Badge](https://badges.pufler.dev/visits/theonomiMC/theonomiMC?style=for-the-badge)](https://badges.pufler.dev) -->
-[![Repos Badge](https://badges.pufler.dev/repos/theonomiMC?style=for-the-badge)](https://github.com/theonomiMC?tab=repositories)
-[![Gists Badge](https://badges.pufler.dev/gists/theonomiMC?style=for-the-badge)](https://gist.github.com/theonomiMC)
-
+<!-- repos, gist icons -->
+[![repos](https://img.shields.io/badge/Repos-DE0009?style=for-the-badge&logo=repos&logoColor=white)](https://github.com/theonomiMC?tab=repositories)
+[![gist](https://img.shields.io/badge/Gist-DE0009?style=for-the-badge&logo=repos&logoColor=white)](https://gist.github.com/theonomiMC)
 
 <!--
 **theonomiMC/theonomiMC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,36 +21,43 @@ Here are some ideas to get you started:
 -->
 
 ### 📌Pinned Repositories
-
+<!-- calculator -->
 <a href="https://github.com/theonomiMC/compliance_calculator">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=theonomiMC&repo=compliance_calculator&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=555555" />
 </a>
-
+<!-- tiberia blog -->
 <br>
-<a href="https://github.com/theonomiMC/covid-19">
- <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=theonomiMC&repo=covid-19&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=555555" />
+<a href="https://github.com/theonomiMC/tiberia-frontend">
+ <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=theonomiMC&repo=tiberia-frontend&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=555555" />
 </a>
-
+<!-- countries -->
 <br>
 <a href="https://github.com/theonomiMC/countries">
    <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=theonomiMC&repo=countries&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=555555" />
 </a>
 <br>
-
+<!-- korean beauty -->
 <a href="https://github.com/theonomiMC/k-beauty-blog">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=theonomiMC&repo=k-beauty-blog&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=555555" />
 </a>
 
+### My Stats:
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=theonomiMC&theme=github-light)](https://git.io/streak-stats)
+<br /><br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theonomiMC&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<hr />
 
 ### Skills
-![](https://img.shields.io/badge/React-informational?style=for-the-badge&logo=react&logoColor=white&color=555555)
-![](https://img.shields.io/badge/Node-informational?style=for-the-badge&logo=node.js&logoColor=white&color=555555)
-![](https://img.shields.io/badge/Express-informational?style=for-the-badge&logo=express&logoColor=white&color=555555)
-![](https://img.shields.io/badge/Mongodb-informational?style=for-the-badge&logo=mongodb&logoColor=white&color=555555)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 <br />
-![](https://img.shields.io/badge/Next-informational?style=for-the-badge&logo=next.js&logoColor=white&color=555555)
-![](https://img.shields.io/badge/Python-informational?style=for-the-badge&logo=python&logoColor=white&color=555555)
-
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white&color=555555)
+![SQL](https://img.shields.io/badge/SQL-DE0009?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 <details>
 <summary>
   <span style="color: black;">More Skills</span>
