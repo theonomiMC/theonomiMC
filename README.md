@@ -25,10 +25,10 @@ accreditation standards.</p>
   Tiberia Blog
 <!--  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=theonomiMC&repo=tiberia-frontend&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=555555" /> -->
 </a>
-<p>Blog site, where you can write, edit and delete posts</p>
+<p>Blog site, where you can write, edit and delete posts.</p>
 
 <!-- countries -->
-<hr />
+<hr style="height:1px;"/>
 <a href="https://github.com/theonomiMC/countries">
   Countries
 <!--    <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=theonomiMC&repo=countries&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=555555" /> -->
@@ -36,7 +36,7 @@ accreditation standards.</p>
 <p>Next.js app - see all countries, search, filter, see more deatails about each country</p>
 
 <!-- korean beauty -->
-<hr />
+<hr style="height:1px;"/>
 <a href="https://github.com/theonomiMC/k-beauty-blog">
   Korean Beauty Blog
 <!--   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=theonomiMC&repo=k-beauty-blog&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=555555" /> -->
