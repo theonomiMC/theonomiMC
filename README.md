@@ -16,6 +16,7 @@
   Accreditation Calculator
 <!--   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=theonomiMC&repo=compliance_calculator&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=555555" /> -->
 </a>
+
 <p>Calculate the level of compliance for the higher education programs with the
 accreditation standards.</p>
 <hr style="height:1px;" />
@@ -37,11 +38,11 @@ accreditation standards.</p>
 
 <!-- korean beauty -->
 <hr style="height:1px;"/>
-<a href="https://github.com/theonomiMC/k-beauty-blog">
-  Korean Beauty Blog
+<a href="https://github.com/theonomiMC/ecommerce">
+E-commerce website
 <!--   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=theonomiMC&repo=k-beauty-blog&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=555555" /> -->
 </a>
-<p>Review some recommended korean cosmetics according to skin type. Take a small test to know your skin type. Go to the products section, take a glance at each item and add them to your wishlist.</p>
+<p>E-commerce application created using react class components and graphql</p>
 
 ### My Stats:
 [![GitHub Streak](https://streak-stats.demolab.com/?user=theonomiMC&theme=github-light)](https://git.io/streak-stats)
