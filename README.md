@@ -31,10 +31,10 @@ accreditation standards.</p>
 <!-- countries -->
 <hr style="height:1px;"/>
 <a href="https://github.com/theonomiMC/countries">
-  Countries
-<!--    <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=theonomiMC&repo=countries&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=555555" /> -->
+  Georgia Trade Dynamics 2023
 </a>
-<p>Next.js app - see all countries, search, filter, see more deatails about each country</p>
+<p> Analysis of Georgia's exports and imports during the period of January to November 2023.
+  Identify trade trends, top trading partners and their share in the country's market.</p>
 
 <!-- korean beauty -->
 <hr style="height:1px;"/>
