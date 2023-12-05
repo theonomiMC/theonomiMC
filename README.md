@@ -30,7 +30,7 @@ accreditation standards.</p>
 
 <!-- countries -->
 <hr style="height:1px;"/>
-<a href="https://github.com/theonomiMC/countries">
+<a href="https://github.com/theonomiMC/Georgia-export-import-2023">
   Georgia Trade Dynamics 2023
 </a>
 <p> Analysis of Georgia's exports and imports during the period of January to November 2023.
@@ -52,13 +52,13 @@ E-commerce website
 
 ### Skills:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 <br /><br />
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white&color=555555)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-DE0009?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 <details>
 <summary>
