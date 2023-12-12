@@ -30,13 +30,13 @@ accreditation standards.</p>
 
 <!-- countries -->
 <hr style="height:1px;"/>
-<a href="https://github.com/theonomiMC/Georgia-export-import-2023">
-  Georgia Trade Dynamics 2023
+<a href="https://github.com/theonomiMC/Georgia-trade-22-23">
+  Georgia Trade Dynamics 2022-20223
 </a>
-<p> Analysis of Georgia's exports and imports during the period of January to November 2023.
-  Identify trade trends, top trading partners and their share in the country's market.</p>
+<p> Analysis of Georgia's exports and imports during the period of January to November 2023 and 2022.
+  Identify trade trends, top trading partners, and their share in the country's market.</p>
 
-<!-- korean beauty -->
+<!-- Korean beauty -->
 <hr style="height:1px;"/>
 <a href="https://github.com/theonomiMC/ecommerce">
 E-commerce website
