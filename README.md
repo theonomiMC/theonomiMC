@@ -39,7 +39,4 @@ Full-stack Web3 interface. Two-step deposit flow, live share price, mobile optim
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
----
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=theonomiMC&show_icons=true&theme=default&hide_border=true&count_private=true)](https://github.com/theonomiMC)
-```
