@@ -1,72 +1,45 @@
-<div align="center">
-  <img src="1.webp" width="100%" height="300" />
-</div>
-
 ### Hi, I am Natalia 👋
-[![LinkedIn Badge](https://img.shields.io/badge/Natalia_Bakakuri-informational?style=for-the-badge&logo=linkedin&color=555555)](https://www.linkedin.com/in/nataliabakakuri/)
-<br />
-<!-- repos, gist icons -->
-[![repos](https://img.shields.io/badge/Repos-DE0009?style=for-the-badge&logo=repos&logoColor=white)](https://github.com/theonomiMC?tab=repositories)
-[![gist](https://img.shields.io/badge/Gist-DE0009?style=for-the-badge&logo=repos&logoColor=white)](https://gist.github.com/theonomiMC)
 
+Learning smart contract engineering by building real projects.
+Currently working through vault architecture, upgradeability patterns,
+and invariant testing in Solidity.
 
-### 📌Pinned Repositories
-<!-- calculator -->
-<a href="https://github.com/theonomiMC/compliance_calculator">
-  Accreditation Calculator
-<!--   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=theonomiMC&repo=compliance_calculator&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=555555" /> -->
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nataliabakakuri/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/theonomiMC)
 
-<p>Calculate the level of compliance for the higher education programs with the
-accreditation standards.</p>
-<hr style="height:1px;" />
+---
 
-<!-- tiberia blog -->
-<a href="https://github.com/theonomiMC/tiberia-frontend">
-  Tiberia Blog
-<!--  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=theonomiMC&repo=tiberia-frontend&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=555555" /> -->
-</a>
-<p>Blog site, where you can write, edit and delete posts.</p>
+### What I'm Building
 
-<!-- countries -->
-<hr style="height:1px;"/>
-<a href="https://github.com/theonomiMC/Georgia-trade-22-23">
-  Georgia Trade Dynamics 2022-20223
-</a>
-<p> Analysis of Georgia's exports and imports during the period of January to November 2023 and 2022.
-  Identify trade trends, top trading partners, and their share in the country's market.</p>
+**[UsdcVault](https://github.com/theonomiMC/UsdcVault)** — ERC-4626 USDC Vault  
+Yield vault with UUPS upgradeability, strategy integration, and performance fees.  
+Invariant tested: 200,000 calls, 0 violations. 100% line coverage.  
+`Solidity` `Foundry` `OpenZeppelin` `UUPS` `Sepolia`
 
-<!-- Korean beauty -->
-<hr style="height:1px;"/>
-<a href="https://github.com/theonomiMC/ecommerce">
-E-commerce website
-<!--   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=theonomiMC&repo=k-beauty-blog&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=555555" /> -->
-</a>
-<p>E-commerce application created using react class components and graphql</p>
+**[usdc-vault-ui](https://github.com/theonomiMC/usdc-vault-ui)** — Vault Frontend · [Live Demo](https://usdc-vault-ui.vercel.app/)  
+Full-stack Web3 interface. Two-step deposit flow, live share price, mobile optimized.  
+`Next.js` `Wagmi` `Viem` `RainbowKit` `Tailwind`
 
-### My Stats:
-[![GitHub Streak](https://streak-stats.demolab.com/?user=theonomiMC&theme=github-light)](https://git.io/streak-stats)
-<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theonomiMC&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<!-- <hr /> -->
+---
 
-### Skills:
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-<br /><br />
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white&color=555555)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-DE0009?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-<details>
-<summary>
-  <span style="color: black;">More Skills</span>
-</summary>
+### Other Projects
 
-![](https://img.shields.io/badge/Style-CSS-informational?style=for-the-badge&logo=css3&logoColor=white&color=F0F0F0)
-![](https://img.shields.io/badge/Style-Material-informational?style=for-the-badge&logo=Material-CSS&logoColor=white&color=F0F0F0)
-![](https://img.shields.io/badge/Style-Sass-informational?style=for-the-badge&logo=Sass&logoColor=white&color=F0F0F0)
+**[Accreditation Calculator](https://github.com/theonomiMC/compliance_calculator)** — Compliance scoring tool for higher education accreditation standards.
 
-</details>
+**[Georgia Trade Analysis](https://github.com/theonomiMC/Georgia-trade-22-23)** — Trade dynamics analysis, 2022–2023.
+
+---
+
+### Skills
+
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
+![Foundry](https://img.shields.io/badge/Foundry-FFDE00?style=flat&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+---
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=theonomiMC&show_icons=true&theme=default&hide_border=true&count_private=true)](https://github.com/theonomiMC)
+```
